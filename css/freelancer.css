@@ -271,8 +271,8 @@ a {
   color: #2C3E50 !important; }
 
 .btn-primary {
-  background-color: #c0392b;
-  border-color: #c0392b; }
+  background-color: #9c483f;
+  border-color: #9c483f; }
   .btn-primary:hover, .btn-primary:focus, .btn-primary:active {
     background-color: #128f76;
     border-color: #128f76; }
@@ -280,6 +280,13 @@ a {
 .btn-secondary {
   background-color: #2C3E50;
   border-color: #2C3E50; }
+
   .btn-secondary:hover, .btn-secondary:focus, .btn-secondary:active {
     background-color: #1a252f;
     border-color: #1a252f; }
+
+  .imagem-borda{
+    border: 3px solid #FFF;
+  }
+
+
